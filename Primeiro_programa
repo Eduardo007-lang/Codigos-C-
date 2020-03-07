@@ -1,0 +1,25 @@
+using System;
+
+namespace Tipos_De_Dados
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string Condicao;
+            Console.WriteLine("hellou, word");
+            Console.Write("Como vc esta: ");
+            Condicao = Console.ReadLine();
+
+            Console.WriteLine("Seu estado é:  " + Condicao);
+            Console.Write("Por quais motivos voce esta " + Condicao + "?");
+
+            string motivos;
+            Console.WriteLine(motivos);
+            Console.Write("Que legal Cara!!!");
+
+            Console.ReadKey();
+
+        }
+    }
+}
