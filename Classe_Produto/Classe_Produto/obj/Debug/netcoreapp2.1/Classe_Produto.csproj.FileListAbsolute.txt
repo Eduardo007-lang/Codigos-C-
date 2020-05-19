@@ -1,0 +1,11 @@
+C:\Users\Eduardo\source\repos\Classe_Produto\Classe_Produto\bin\Debug\netcoreapp2.1\Classe_Produto.deps.json
+C:\Users\Eduardo\source\repos\Classe_Produto\Classe_Produto\bin\Debug\netcoreapp2.1\Classe_Produto.runtimeconfig.json
+C:\Users\Eduardo\source\repos\Classe_Produto\Classe_Produto\bin\Debug\netcoreapp2.1\Classe_Produto.runtimeconfig.dev.json
+C:\Users\Eduardo\source\repos\Classe_Produto\Classe_Produto\bin\Debug\netcoreapp2.1\Classe_Produto.dll
+C:\Users\Eduardo\source\repos\Classe_Produto\Classe_Produto\bin\Debug\netcoreapp2.1\Classe_Produto.pdb
+C:\Users\Eduardo\source\repos\Classe_Produto\Classe_Produto\obj\Debug\netcoreapp2.1\Classe_Produto.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\Classe_Produto\Classe_Produto\obj\Debug\netcoreapp2.1\Classe_Produto.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\Classe_Produto\Classe_Produto\obj\Debug\netcoreapp2.1\Classe_Produto.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\Classe_Produto\Classe_Produto\obj\Debug\netcoreapp2.1\Classe_Produto.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\Classe_Produto\Classe_Produto\obj\Debug\netcoreapp2.1\Classe_Produto.dll
+C:\Users\Eduardo\source\repos\Classe_Produto\Classe_Produto\obj\Debug\netcoreapp2.1\Classe_Produto.pdb
