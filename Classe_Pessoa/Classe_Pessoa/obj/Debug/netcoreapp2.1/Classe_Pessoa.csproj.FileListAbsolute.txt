@@ -1,0 +1,11 @@
+C:\Users\Eduardo\source\repos\Classe_Pessoa\Classe_Pessoa\bin\Debug\netcoreapp2.1\Classe_Pessoa.deps.json
+C:\Users\Eduardo\source\repos\Classe_Pessoa\Classe_Pessoa\bin\Debug\netcoreapp2.1\Classe_Pessoa.runtimeconfig.json
+C:\Users\Eduardo\source\repos\Classe_Pessoa\Classe_Pessoa\bin\Debug\netcoreapp2.1\Classe_Pessoa.runtimeconfig.dev.json
+C:\Users\Eduardo\source\repos\Classe_Pessoa\Classe_Pessoa\bin\Debug\netcoreapp2.1\Classe_Pessoa.dll
+C:\Users\Eduardo\source\repos\Classe_Pessoa\Classe_Pessoa\bin\Debug\netcoreapp2.1\Classe_Pessoa.pdb
+C:\Users\Eduardo\source\repos\Classe_Pessoa\Classe_Pessoa\obj\Debug\netcoreapp2.1\Classe_Pessoa.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\Classe_Pessoa\Classe_Pessoa\obj\Debug\netcoreapp2.1\Classe_Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\Classe_Pessoa\Classe_Pessoa\obj\Debug\netcoreapp2.1\Classe_Pessoa.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\Classe_Pessoa\Classe_Pessoa\obj\Debug\netcoreapp2.1\Classe_Pessoa.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\Classe_Pessoa\Classe_Pessoa\obj\Debug\netcoreapp2.1\Classe_Pessoa.dll
+C:\Users\Eduardo\source\repos\Classe_Pessoa\Classe_Pessoa\obj\Debug\netcoreapp2.1\Classe_Pessoa.pdb
