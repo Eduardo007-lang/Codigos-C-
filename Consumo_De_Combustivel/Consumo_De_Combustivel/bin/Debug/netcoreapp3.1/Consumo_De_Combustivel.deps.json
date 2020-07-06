@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Consumo_De_Combustivel/1.0.0": {
+        "runtime": {
+          "Consumo_De_Combustivel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Consumo_De_Combustivel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

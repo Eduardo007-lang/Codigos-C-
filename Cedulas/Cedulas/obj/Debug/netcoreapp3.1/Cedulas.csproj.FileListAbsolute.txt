@@ -1,0 +1,13 @@
+C:\Users\Eduardo\source\repos\Cedulas\Cedulas\bin\Debug\netcoreapp3.1\Cedulas.exe
+C:\Users\Eduardo\source\repos\Cedulas\Cedulas\bin\Debug\netcoreapp3.1\Cedulas.deps.json
+C:\Users\Eduardo\source\repos\Cedulas\Cedulas\bin\Debug\netcoreapp3.1\Cedulas.runtimeconfig.json
+C:\Users\Eduardo\source\repos\Cedulas\Cedulas\bin\Debug\netcoreapp3.1\Cedulas.runtimeconfig.dev.json
+C:\Users\Eduardo\source\repos\Cedulas\Cedulas\bin\Debug\netcoreapp3.1\Cedulas.dll
+C:\Users\Eduardo\source\repos\Cedulas\Cedulas\bin\Debug\netcoreapp3.1\Cedulas.pdb
+C:\Users\Eduardo\source\repos\Cedulas\Cedulas\obj\Debug\netcoreapp3.1\Cedulas.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\Cedulas\Cedulas\obj\Debug\netcoreapp3.1\Cedulas.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\Cedulas\Cedulas\obj\Debug\netcoreapp3.1\Cedulas.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\Cedulas\Cedulas\obj\Debug\netcoreapp3.1\Cedulas.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\Cedulas\Cedulas\obj\Debug\netcoreapp3.1\Cedulas.dll
+C:\Users\Eduardo\source\repos\Cedulas\Cedulas\obj\Debug\netcoreapp3.1\Cedulas.pdb
+C:\Users\Eduardo\source\repos\Cedulas\Cedulas\obj\Debug\netcoreapp3.1\Cedulas.genruntimeconfig.cache
