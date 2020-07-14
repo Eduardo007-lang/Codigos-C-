@@ -1,0 +1,10 @@
+C:\Users\Eduardo\source\repos\Tratamento _De_Erro\Tratamento _De_Erro\bin\Debug\Tratamento _De_Erro.exe.config
+C:\Users\Eduardo\source\repos\Tratamento _De_Erro\Tratamento _De_Erro\bin\Debug\Tratamento _De_Erro.exe
+C:\Users\Eduardo\source\repos\Tratamento _De_Erro\Tratamento _De_Erro\bin\Debug\Tratamento _De_Erro.pdb
+C:\Users\Eduardo\source\repos\Tratamento _De_Erro\Tratamento _De_Erro\obj\Debug\Tratamento _De_Erro.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\Tratamento _De_Erro\Tratamento _De_Erro\obj\Debug\Tratamento__De_Erro.Form1.resources
+C:\Users\Eduardo\source\repos\Tratamento _De_Erro\Tratamento _De_Erro\obj\Debug\Tratamento__De_Erro.Properties.Resources.resources
+C:\Users\Eduardo\source\repos\Tratamento _De_Erro\Tratamento _De_Erro\obj\Debug\Tratamento _De_Erro.csproj.GenerateResource.cache
+C:\Users\Eduardo\source\repos\Tratamento _De_Erro\Tratamento _De_Erro\obj\Debug\Tratamento _De_Erro.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\Tratamento _De_Erro\Tratamento _De_Erro\obj\Debug\Tratamento _De_Erro.exe
+C:\Users\Eduardo\source\repos\Tratamento _De_Erro\Tratamento _De_Erro\obj\Debug\Tratamento _De_Erro.pdb
