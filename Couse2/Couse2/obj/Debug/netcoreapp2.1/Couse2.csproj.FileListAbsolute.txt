@@ -1,0 +1,12 @@
+C:\Users\Eduardo\source\repos\Couse2\Couse2\bin\Debug\netcoreapp2.1\Couse2.deps.json
+C:\Users\Eduardo\source\repos\Couse2\Couse2\bin\Debug\netcoreapp2.1\Couse2.runtimeconfig.json
+C:\Users\Eduardo\source\repos\Couse2\Couse2\bin\Debug\netcoreapp2.1\Couse2.runtimeconfig.dev.json
+C:\Users\Eduardo\source\repos\Couse2\Couse2\bin\Debug\netcoreapp2.1\Couse2.dll
+C:\Users\Eduardo\source\repos\Couse2\Couse2\bin\Debug\netcoreapp2.1\Couse2.pdb
+C:\Users\Eduardo\source\repos\Couse2\Couse2\obj\Debug\netcoreapp2.1\Couse2.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\Couse2\Couse2\obj\Debug\netcoreapp2.1\Couse2.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\Couse2\Couse2\obj\Debug\netcoreapp2.1\Couse2.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\Couse2\Couse2\obj\Debug\netcoreapp2.1\Couse2.dll
+C:\Users\Eduardo\source\repos\Couse2\Couse2\obj\Debug\netcoreapp2.1\Couse2.pdb
+C:\Users\Eduardo\source\repos\Couse2\Couse2\obj\Debug\netcoreapp2.1\Couse2.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\Couse2\Couse2\obj\Debug\netcoreapp2.1\Couse2.genruntimeconfig.cache
