@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Salarios_Arrays/1.0.0": {
+        "runtime": {
+          "Salarios_Arrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Salarios_Arrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

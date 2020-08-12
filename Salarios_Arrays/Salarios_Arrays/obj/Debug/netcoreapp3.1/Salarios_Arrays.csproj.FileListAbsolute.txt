@@ -1,0 +1,13 @@
+C:\Users\eduar\source\repos\Salarios_Arrays\Salarios_Arrays\bin\Debug\netcoreapp3.1\Salarios_Arrays.exe
+C:\Users\eduar\source\repos\Salarios_Arrays\Salarios_Arrays\bin\Debug\netcoreapp3.1\Salarios_Arrays.deps.json
+C:\Users\eduar\source\repos\Salarios_Arrays\Salarios_Arrays\bin\Debug\netcoreapp3.1\Salarios_Arrays.runtimeconfig.json
+C:\Users\eduar\source\repos\Salarios_Arrays\Salarios_Arrays\bin\Debug\netcoreapp3.1\Salarios_Arrays.runtimeconfig.dev.json
+C:\Users\eduar\source\repos\Salarios_Arrays\Salarios_Arrays\bin\Debug\netcoreapp3.1\Salarios_Arrays.dll
+C:\Users\eduar\source\repos\Salarios_Arrays\Salarios_Arrays\bin\Debug\netcoreapp3.1\Salarios_Arrays.pdb
+C:\Users\eduar\source\repos\Salarios_Arrays\Salarios_Arrays\obj\Debug\netcoreapp3.1\Salarios_Arrays.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\Salarios_Arrays\Salarios_Arrays\obj\Debug\netcoreapp3.1\Salarios_Arrays.AssemblyInfoInputs.cache
+C:\Users\eduar\source\repos\Salarios_Arrays\Salarios_Arrays\obj\Debug\netcoreapp3.1\Salarios_Arrays.AssemblyInfo.cs
+C:\Users\eduar\source\repos\Salarios_Arrays\Salarios_Arrays\obj\Debug\netcoreapp3.1\Salarios_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Salarios_Arrays\Salarios_Arrays\obj\Debug\netcoreapp3.1\Salarios_Arrays.dll
+C:\Users\eduar\source\repos\Salarios_Arrays\Salarios_Arrays\obj\Debug\netcoreapp3.1\Salarios_Arrays.pdb
+C:\Users\eduar\source\repos\Salarios_Arrays\Salarios_Arrays\obj\Debug\netcoreapp3.1\Salarios_Arrays.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\eduar\source\repos\Array_Salario_5posicoes\Array_Salario_5posicoes\bin\Debug\netcoreapp3.1\Array_Salario_5posicoes.exe
+C:\Users\eduar\source\repos\Array_Salario_5posicoes\Array_Salario_5posicoes\bin\Debug\netcoreapp3.1\Array_Salario_5posicoes.deps.json
+C:\Users\eduar\source\repos\Array_Salario_5posicoes\Array_Salario_5posicoes\bin\Debug\netcoreapp3.1\Array_Salario_5posicoes.runtimeconfig.json
+C:\Users\eduar\source\repos\Array_Salario_5posicoes\Array_Salario_5posicoes\bin\Debug\netcoreapp3.1\Array_Salario_5posicoes.runtimeconfig.dev.json
+C:\Users\eduar\source\repos\Array_Salario_5posicoes\Array_Salario_5posicoes\bin\Debug\netcoreapp3.1\Array_Salario_5posicoes.dll
+C:\Users\eduar\source\repos\Array_Salario_5posicoes\Array_Salario_5posicoes\bin\Debug\netcoreapp3.1\Array_Salario_5posicoes.pdb
+C:\Users\eduar\source\repos\Array_Salario_5posicoes\Array_Salario_5posicoes\obj\Debug\netcoreapp3.1\Array_Salario_5posicoes.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\Array_Salario_5posicoes\Array_Salario_5posicoes\obj\Debug\netcoreapp3.1\Array_Salario_5posicoes.AssemblyInfoInputs.cache
+C:\Users\eduar\source\repos\Array_Salario_5posicoes\Array_Salario_5posicoes\obj\Debug\netcoreapp3.1\Array_Salario_5posicoes.AssemblyInfo.cs
+C:\Users\eduar\source\repos\Array_Salario_5posicoes\Array_Salario_5posicoes\obj\Debug\netcoreapp3.1\Array_Salario_5posicoes.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Array_Salario_5posicoes\Array_Salario_5posicoes\obj\Debug\netcoreapp3.1\Array_Salario_5posicoes.dll
+C:\Users\eduar\source\repos\Array_Salario_5posicoes\Array_Salario_5posicoes\obj\Debug\netcoreapp3.1\Array_Salario_5posicoes.pdb
+C:\Users\eduar\source\repos\Array_Salario_5posicoes\Array_Salario_5posicoes\obj\Debug\netcoreapp3.1\Array_Salario_5posicoes.genruntimeconfig.cache

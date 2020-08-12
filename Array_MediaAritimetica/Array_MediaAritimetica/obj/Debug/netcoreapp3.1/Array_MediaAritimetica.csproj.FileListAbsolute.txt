@@ -1,0 +1,13 @@
+C:\Users\eduar\source\repos\Array_MediaAritimetica\Array_MediaAritimetica\bin\Debug\netcoreapp3.1\Array_MediaAritimetica.exe
+C:\Users\eduar\source\repos\Array_MediaAritimetica\Array_MediaAritimetica\bin\Debug\netcoreapp3.1\Array_MediaAritimetica.deps.json
+C:\Users\eduar\source\repos\Array_MediaAritimetica\Array_MediaAritimetica\bin\Debug\netcoreapp3.1\Array_MediaAritimetica.runtimeconfig.json
+C:\Users\eduar\source\repos\Array_MediaAritimetica\Array_MediaAritimetica\bin\Debug\netcoreapp3.1\Array_MediaAritimetica.runtimeconfig.dev.json
+C:\Users\eduar\source\repos\Array_MediaAritimetica\Array_MediaAritimetica\bin\Debug\netcoreapp3.1\Array_MediaAritimetica.dll
+C:\Users\eduar\source\repos\Array_MediaAritimetica\Array_MediaAritimetica\bin\Debug\netcoreapp3.1\Array_MediaAritimetica.pdb
+C:\Users\eduar\source\repos\Array_MediaAritimetica\Array_MediaAritimetica\obj\Debug\netcoreapp3.1\Array_MediaAritimetica.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\Array_MediaAritimetica\Array_MediaAritimetica\obj\Debug\netcoreapp3.1\Array_MediaAritimetica.AssemblyInfoInputs.cache
+C:\Users\eduar\source\repos\Array_MediaAritimetica\Array_MediaAritimetica\obj\Debug\netcoreapp3.1\Array_MediaAritimetica.AssemblyInfo.cs
+C:\Users\eduar\source\repos\Array_MediaAritimetica\Array_MediaAritimetica\obj\Debug\netcoreapp3.1\Array_MediaAritimetica.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Array_MediaAritimetica\Array_MediaAritimetica\obj\Debug\netcoreapp3.1\Array_MediaAritimetica.dll
+C:\Users\eduar\source\repos\Array_MediaAritimetica\Array_MediaAritimetica\obj\Debug\netcoreapp3.1\Array_MediaAritimetica.pdb
+C:\Users\eduar\source\repos\Array_MediaAritimetica\Array_MediaAritimetica\obj\Debug\netcoreapp3.1\Array_MediaAritimetica.genruntimeconfig.cache

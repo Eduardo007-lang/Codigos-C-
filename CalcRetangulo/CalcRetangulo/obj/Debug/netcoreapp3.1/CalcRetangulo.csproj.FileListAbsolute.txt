@@ -1,0 +1,13 @@
+C:\Users\eduar\source\repos\CalcRetangulo\CalcRetangulo\bin\Debug\netcoreapp3.1\CalcRetangulo.exe
+C:\Users\eduar\source\repos\CalcRetangulo\CalcRetangulo\bin\Debug\netcoreapp3.1\CalcRetangulo.deps.json
+C:\Users\eduar\source\repos\CalcRetangulo\CalcRetangulo\bin\Debug\netcoreapp3.1\CalcRetangulo.runtimeconfig.json
+C:\Users\eduar\source\repos\CalcRetangulo\CalcRetangulo\bin\Debug\netcoreapp3.1\CalcRetangulo.runtimeconfig.dev.json
+C:\Users\eduar\source\repos\CalcRetangulo\CalcRetangulo\bin\Debug\netcoreapp3.1\CalcRetangulo.dll
+C:\Users\eduar\source\repos\CalcRetangulo\CalcRetangulo\bin\Debug\netcoreapp3.1\CalcRetangulo.pdb
+C:\Users\eduar\source\repos\CalcRetangulo\CalcRetangulo\obj\Debug\netcoreapp3.1\CalcRetangulo.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\CalcRetangulo\CalcRetangulo\obj\Debug\netcoreapp3.1\CalcRetangulo.AssemblyInfoInputs.cache
+C:\Users\eduar\source\repos\CalcRetangulo\CalcRetangulo\obj\Debug\netcoreapp3.1\CalcRetangulo.AssemblyInfo.cs
+C:\Users\eduar\source\repos\CalcRetangulo\CalcRetangulo\obj\Debug\netcoreapp3.1\CalcRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\CalcRetangulo\CalcRetangulo\obj\Debug\netcoreapp3.1\CalcRetangulo.dll
+C:\Users\eduar\source\repos\CalcRetangulo\CalcRetangulo\obj\Debug\netcoreapp3.1\CalcRetangulo.pdb
+C:\Users\eduar\source\repos\CalcRetangulo\CalcRetangulo\obj\Debug\netcoreapp3.1\CalcRetangulo.genruntimeconfig.cache
