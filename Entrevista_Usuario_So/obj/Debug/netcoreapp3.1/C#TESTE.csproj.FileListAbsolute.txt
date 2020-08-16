@@ -1,0 +1,13 @@
+C:\C#TESTE\bin\Debug\netcoreapp3.1\C#TESTE.exe
+C:\C#TESTE\bin\Debug\netcoreapp3.1\C#TESTE.deps.json
+C:\C#TESTE\bin\Debug\netcoreapp3.1\C#TESTE.runtimeconfig.json
+C:\C#TESTE\bin\Debug\netcoreapp3.1\C#TESTE.runtimeconfig.dev.json
+C:\C#TESTE\bin\Debug\netcoreapp3.1\C#TESTE.dll
+C:\C#TESTE\bin\Debug\netcoreapp3.1\C#TESTE.pdb
+C:\C#TESTE\obj\Debug\netcoreapp3.1\C#TESTE.csprojAssemblyReference.cache
+C:\C#TESTE\obj\Debug\netcoreapp3.1\C#TESTE.AssemblyInfoInputs.cache
+C:\C#TESTE\obj\Debug\netcoreapp3.1\C#TESTE.AssemblyInfo.cs
+C:\C#TESTE\obj\Debug\netcoreapp3.1\C#TESTE.csproj.CoreCompileInputs.cache
+C:\C#TESTE\obj\Debug\netcoreapp3.1\C#TESTE.dll
+C:\C#TESTE\obj\Debug\netcoreapp3.1\C#TESTE.pdb
+C:\C#TESTE\obj\Debug\netcoreapp3.1\C#TESTE.genruntimeconfig.cache
