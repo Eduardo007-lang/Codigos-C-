@@ -1,0 +1,13 @@
+C:\Users\eduar\source\repos\Atividade_2_Condicao\Atividade_2_Condicao\bin\Debug\netcoreapp3.1\Atividade_2_Condicao.exe
+C:\Users\eduar\source\repos\Atividade_2_Condicao\Atividade_2_Condicao\bin\Debug\netcoreapp3.1\Atividade_2_Condicao.deps.json
+C:\Users\eduar\source\repos\Atividade_2_Condicao\Atividade_2_Condicao\bin\Debug\netcoreapp3.1\Atividade_2_Condicao.runtimeconfig.json
+C:\Users\eduar\source\repos\Atividade_2_Condicao\Atividade_2_Condicao\bin\Debug\netcoreapp3.1\Atividade_2_Condicao.runtimeconfig.dev.json
+C:\Users\eduar\source\repos\Atividade_2_Condicao\Atividade_2_Condicao\bin\Debug\netcoreapp3.1\Atividade_2_Condicao.dll
+C:\Users\eduar\source\repos\Atividade_2_Condicao\Atividade_2_Condicao\bin\Debug\netcoreapp3.1\Atividade_2_Condicao.pdb
+C:\Users\eduar\source\repos\Atividade_2_Condicao\Atividade_2_Condicao\obj\Debug\netcoreapp3.1\Atividade_2_Condicao.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\Atividade_2_Condicao\Atividade_2_Condicao\obj\Debug\netcoreapp3.1\Atividade_2_Condicao.AssemblyInfoInputs.cache
+C:\Users\eduar\source\repos\Atividade_2_Condicao\Atividade_2_Condicao\obj\Debug\netcoreapp3.1\Atividade_2_Condicao.AssemblyInfo.cs
+C:\Users\eduar\source\repos\Atividade_2_Condicao\Atividade_2_Condicao\obj\Debug\netcoreapp3.1\Atividade_2_Condicao.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Atividade_2_Condicao\Atividade_2_Condicao\obj\Debug\netcoreapp3.1\Atividade_2_Condicao.dll
+C:\Users\eduar\source\repos\Atividade_2_Condicao\Atividade_2_Condicao\obj\Debug\netcoreapp3.1\Atividade_2_Condicao.pdb
+C:\Users\eduar\source\repos\Atividade_2_Condicao\Atividade_2_Condicao\obj\Debug\netcoreapp3.1\Atividade_2_Condicao.genruntimeconfig.cache
