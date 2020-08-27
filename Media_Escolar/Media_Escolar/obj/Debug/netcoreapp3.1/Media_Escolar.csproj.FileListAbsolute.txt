@@ -1,0 +1,12 @@
+C:\Users\eduar\source\repos\Media_Escolar\Media_Escolar\bin\Debug\netcoreapp3.1\Media_Escolar.exe
+C:\Users\eduar\source\repos\Media_Escolar\Media_Escolar\bin\Debug\netcoreapp3.1\Media_Escolar.deps.json
+C:\Users\eduar\source\repos\Media_Escolar\Media_Escolar\bin\Debug\netcoreapp3.1\Media_Escolar.runtimeconfig.json
+C:\Users\eduar\source\repos\Media_Escolar\Media_Escolar\bin\Debug\netcoreapp3.1\Media_Escolar.runtimeconfig.dev.json
+C:\Users\eduar\source\repos\Media_Escolar\Media_Escolar\bin\Debug\netcoreapp3.1\Media_Escolar.dll
+C:\Users\eduar\source\repos\Media_Escolar\Media_Escolar\bin\Debug\netcoreapp3.1\Media_Escolar.pdb
+C:\Users\eduar\source\repos\Media_Escolar\Media_Escolar\obj\Debug\netcoreapp3.1\Media_Escolar.AssemblyInfoInputs.cache
+C:\Users\eduar\source\repos\Media_Escolar\Media_Escolar\obj\Debug\netcoreapp3.1\Media_Escolar.AssemblyInfo.cs
+C:\Users\eduar\source\repos\Media_Escolar\Media_Escolar\obj\Debug\netcoreapp3.1\Media_Escolar.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Media_Escolar\Media_Escolar\obj\Debug\netcoreapp3.1\Media_Escolar.dll
+C:\Users\eduar\source\repos\Media_Escolar\Media_Escolar\obj\Debug\netcoreapp3.1\Media_Escolar.pdb
+C:\Users\eduar\source\repos\Media_Escolar\Media_Escolar\obj\Debug\netcoreapp3.1\Media_Escolar.genruntimeconfig.cache
