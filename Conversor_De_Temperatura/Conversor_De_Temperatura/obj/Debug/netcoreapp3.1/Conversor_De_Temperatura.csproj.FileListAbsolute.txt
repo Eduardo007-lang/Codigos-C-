@@ -1,0 +1,13 @@
+C:\Users\eduar\source\repos\Conversor_De_Temperatura\Conversor_De_Temperatura\bin\Debug\netcoreapp3.1\Conversor_De_Temperatura.exe
+C:\Users\eduar\source\repos\Conversor_De_Temperatura\Conversor_De_Temperatura\bin\Debug\netcoreapp3.1\Conversor_De_Temperatura.deps.json
+C:\Users\eduar\source\repos\Conversor_De_Temperatura\Conversor_De_Temperatura\bin\Debug\netcoreapp3.1\Conversor_De_Temperatura.runtimeconfig.json
+C:\Users\eduar\source\repos\Conversor_De_Temperatura\Conversor_De_Temperatura\bin\Debug\netcoreapp3.1\Conversor_De_Temperatura.runtimeconfig.dev.json
+C:\Users\eduar\source\repos\Conversor_De_Temperatura\Conversor_De_Temperatura\bin\Debug\netcoreapp3.1\Conversor_De_Temperatura.dll
+C:\Users\eduar\source\repos\Conversor_De_Temperatura\Conversor_De_Temperatura\bin\Debug\netcoreapp3.1\Conversor_De_Temperatura.pdb
+C:\Users\eduar\source\repos\Conversor_De_Temperatura\Conversor_De_Temperatura\obj\Debug\netcoreapp3.1\Conversor_De_Temperatura.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\Conversor_De_Temperatura\Conversor_De_Temperatura\obj\Debug\netcoreapp3.1\Conversor_De_Temperatura.AssemblyInfoInputs.cache
+C:\Users\eduar\source\repos\Conversor_De_Temperatura\Conversor_De_Temperatura\obj\Debug\netcoreapp3.1\Conversor_De_Temperatura.AssemblyInfo.cs
+C:\Users\eduar\source\repos\Conversor_De_Temperatura\Conversor_De_Temperatura\obj\Debug\netcoreapp3.1\Conversor_De_Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Conversor_De_Temperatura\Conversor_De_Temperatura\obj\Debug\netcoreapp3.1\Conversor_De_Temperatura.dll
+C:\Users\eduar\source\repos\Conversor_De_Temperatura\Conversor_De_Temperatura\obj\Debug\netcoreapp3.1\Conversor_De_Temperatura.pdb
+C:\Users\eduar\source\repos\Conversor_De_Temperatura\Conversor_De_Temperatura\obj\Debug\netcoreapp3.1\Conversor_De_Temperatura.genruntimeconfig.cache

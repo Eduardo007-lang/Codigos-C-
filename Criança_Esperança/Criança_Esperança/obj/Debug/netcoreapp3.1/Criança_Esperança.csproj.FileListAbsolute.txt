@@ -1,0 +1,13 @@
+C:\Users\eduar\source\repos\Criança_Esperança\Criança_Esperança\bin\Debug\netcoreapp3.1\Criança_Esperança.exe
+C:\Users\eduar\source\repos\Criança_Esperança\Criança_Esperança\bin\Debug\netcoreapp3.1\Criança_Esperança.deps.json
+C:\Users\eduar\source\repos\Criança_Esperança\Criança_Esperança\bin\Debug\netcoreapp3.1\Criança_Esperança.runtimeconfig.json
+C:\Users\eduar\source\repos\Criança_Esperança\Criança_Esperança\bin\Debug\netcoreapp3.1\Criança_Esperança.runtimeconfig.dev.json
+C:\Users\eduar\source\repos\Criança_Esperança\Criança_Esperança\bin\Debug\netcoreapp3.1\Criança_Esperança.dll
+C:\Users\eduar\source\repos\Criança_Esperança\Criança_Esperança\bin\Debug\netcoreapp3.1\Criança_Esperança.pdb
+C:\Users\eduar\source\repos\Criança_Esperança\Criança_Esperança\obj\Debug\netcoreapp3.1\Criança_Esperança.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\Criança_Esperança\Criança_Esperança\obj\Debug\netcoreapp3.1\Criança_Esperança.AssemblyInfoInputs.cache
+C:\Users\eduar\source\repos\Criança_Esperança\Criança_Esperança\obj\Debug\netcoreapp3.1\Criança_Esperança.AssemblyInfo.cs
+C:\Users\eduar\source\repos\Criança_Esperança\Criança_Esperança\obj\Debug\netcoreapp3.1\Criança_Esperança.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Criança_Esperança\Criança_Esperança\obj\Debug\netcoreapp3.1\Criança_Esperança.dll
+C:\Users\eduar\source\repos\Criança_Esperança\Criança_Esperança\obj\Debug\netcoreapp3.1\Criança_Esperança.pdb
+C:\Users\eduar\source\repos\Criança_Esperança\Criança_Esperança\obj\Debug\netcoreapp3.1\Criança_Esperança.genruntimeconfig.cache

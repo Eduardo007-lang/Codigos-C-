@@ -1,0 +1,13 @@
+C:\Users\eduar\source\repos\Departamento_Transito\Departamento_Transito\bin\Debug\netcoreapp3.1\Departamento_Transito.exe
+C:\Users\eduar\source\repos\Departamento_Transito\Departamento_Transito\bin\Debug\netcoreapp3.1\Departamento_Transito.deps.json
+C:\Users\eduar\source\repos\Departamento_Transito\Departamento_Transito\bin\Debug\netcoreapp3.1\Departamento_Transito.runtimeconfig.json
+C:\Users\eduar\source\repos\Departamento_Transito\Departamento_Transito\bin\Debug\netcoreapp3.1\Departamento_Transito.runtimeconfig.dev.json
+C:\Users\eduar\source\repos\Departamento_Transito\Departamento_Transito\bin\Debug\netcoreapp3.1\Departamento_Transito.dll
+C:\Users\eduar\source\repos\Departamento_Transito\Departamento_Transito\bin\Debug\netcoreapp3.1\Departamento_Transito.pdb
+C:\Users\eduar\source\repos\Departamento_Transito\Departamento_Transito\obj\Debug\netcoreapp3.1\Departamento_Transito.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\Departamento_Transito\Departamento_Transito\obj\Debug\netcoreapp3.1\Departamento_Transito.AssemblyInfoInputs.cache
+C:\Users\eduar\source\repos\Departamento_Transito\Departamento_Transito\obj\Debug\netcoreapp3.1\Departamento_Transito.AssemblyInfo.cs
+C:\Users\eduar\source\repos\Departamento_Transito\Departamento_Transito\obj\Debug\netcoreapp3.1\Departamento_Transito.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Departamento_Transito\Departamento_Transito\obj\Debug\netcoreapp3.1\Departamento_Transito.dll
+C:\Users\eduar\source\repos\Departamento_Transito\Departamento_Transito\obj\Debug\netcoreapp3.1\Departamento_Transito.pdb
+C:\Users\eduar\source\repos\Departamento_Transito\Departamento_Transito\obj\Debug\netcoreapp3.1\Departamento_Transito.genruntimeconfig.cache

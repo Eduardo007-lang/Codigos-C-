@@ -1,0 +1,12 @@
+C:\Users\eduar\source\repos\Maior_Menor_Valor\Maior_Menor_Valor\bin\Debug\netcoreapp3.1\Maior_Menor_Valor.exe
+C:\Users\eduar\source\repos\Maior_Menor_Valor\Maior_Menor_Valor\bin\Debug\netcoreapp3.1\Maior_Menor_Valor.deps.json
+C:\Users\eduar\source\repos\Maior_Menor_Valor\Maior_Menor_Valor\bin\Debug\netcoreapp3.1\Maior_Menor_Valor.runtimeconfig.json
+C:\Users\eduar\source\repos\Maior_Menor_Valor\Maior_Menor_Valor\bin\Debug\netcoreapp3.1\Maior_Menor_Valor.runtimeconfig.dev.json
+C:\Users\eduar\source\repos\Maior_Menor_Valor\Maior_Menor_Valor\bin\Debug\netcoreapp3.1\Maior_Menor_Valor.dll
+C:\Users\eduar\source\repos\Maior_Menor_Valor\Maior_Menor_Valor\bin\Debug\netcoreapp3.1\Maior_Menor_Valor.pdb
+C:\Users\eduar\source\repos\Maior_Menor_Valor\Maior_Menor_Valor\obj\Debug\netcoreapp3.1\Maior_Menor_Valor.AssemblyInfoInputs.cache
+C:\Users\eduar\source\repos\Maior_Menor_Valor\Maior_Menor_Valor\obj\Debug\netcoreapp3.1\Maior_Menor_Valor.AssemblyInfo.cs
+C:\Users\eduar\source\repos\Maior_Menor_Valor\Maior_Menor_Valor\obj\Debug\netcoreapp3.1\Maior_Menor_Valor.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Maior_Menor_Valor\Maior_Menor_Valor\obj\Debug\netcoreapp3.1\Maior_Menor_Valor.dll
+C:\Users\eduar\source\repos\Maior_Menor_Valor\Maior_Menor_Valor\obj\Debug\netcoreapp3.1\Maior_Menor_Valor.pdb
+C:\Users\eduar\source\repos\Maior_Menor_Valor\Maior_Menor_Valor\obj\Debug\netcoreapp3.1\Maior_Menor_Valor.genruntimeconfig.cache
