@@ -11,3 +11,16 @@ C:\Users\eduar\source\repos\JokenPo\JokenPo\obj\Debug\netcoreapp3.1\JokenPo.cspr
 C:\Users\eduar\source\repos\JokenPo\JokenPo\obj\Debug\netcoreapp3.1\JokenPo.dll
 C:\Users\eduar\source\repos\JokenPo\JokenPo\obj\Debug\netcoreapp3.1\JokenPo.pdb
 C:\Users\eduar\source\repos\JokenPo\JokenPo\obj\Debug\netcoreapp3.1\JokenPo.genruntimeconfig.cache
+C:\Users\eduar\source\repos\Codigos-C-3\JokenPo\JokenPo\bin\Debug\netcoreapp3.1\JokenPo.exe
+C:\Users\eduar\source\repos\Codigos-C-3\JokenPo\JokenPo\bin\Debug\netcoreapp3.1\JokenPo.deps.json
+C:\Users\eduar\source\repos\Codigos-C-3\JokenPo\JokenPo\bin\Debug\netcoreapp3.1\JokenPo.runtimeconfig.json
+C:\Users\eduar\source\repos\Codigos-C-3\JokenPo\JokenPo\bin\Debug\netcoreapp3.1\JokenPo.runtimeconfig.dev.json
+C:\Users\eduar\source\repos\Codigos-C-3\JokenPo\JokenPo\bin\Debug\netcoreapp3.1\JokenPo.dll
+C:\Users\eduar\source\repos\Codigos-C-3\JokenPo\JokenPo\bin\Debug\netcoreapp3.1\JokenPo.pdb
+C:\Users\eduar\source\repos\Codigos-C-3\JokenPo\JokenPo\obj\Debug\netcoreapp3.1\JokenPo.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\Codigos-C-3\JokenPo\JokenPo\obj\Debug\netcoreapp3.1\JokenPo.AssemblyInfoInputs.cache
+C:\Users\eduar\source\repos\Codigos-C-3\JokenPo\JokenPo\obj\Debug\netcoreapp3.1\JokenPo.AssemblyInfo.cs
+C:\Users\eduar\source\repos\Codigos-C-3\JokenPo\JokenPo\obj\Debug\netcoreapp3.1\JokenPo.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Codigos-C-3\JokenPo\JokenPo\obj\Debug\netcoreapp3.1\JokenPo.dll
+C:\Users\eduar\source\repos\Codigos-C-3\JokenPo\JokenPo\obj\Debug\netcoreapp3.1\JokenPo.pdb
+C:\Users\eduar\source\repos\Codigos-C-3\JokenPo\JokenPo\obj\Debug\netcoreapp3.1\JokenPo.genruntimeconfig.cache

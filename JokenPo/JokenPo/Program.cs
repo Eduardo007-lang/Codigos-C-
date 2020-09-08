@@ -6,39 +6,30 @@ namespace JokenPo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("-----------------------------------------------");
-            Console.WriteLine("JOKENPO");
-            Console.WriteLine("-----------------------------------------------");
-            Console.WriteLine("Jogador 1 - Escolhe entre: (Pedra, Papel e Tesoura) ");
-            string j1 = Console.ReadLine();
-            Console.WriteLine("-----------------------------------------------");
-            Console.WriteLine("Jogador 2 - Escolhe entre: (Pedra, Papel e Tesoura) ");
-            string j2 = Console.ReadLine();
-            Console.WriteLine("-----------------------------------------------");
-            if (j1 == "Pedra" && j2 == "Tesoura" || j1 == "Tesoura" && j2 == "Pedra")
-            {
-                Console.WriteLine($"Jogador 1:{j1} ");
-                Console.WriteLine($"Jogador 2:{j2} ");
-                Console.WriteLine("Pedra Ganha!");
-            }
-            else if (j1 == "Papel"  && j2 == "Tesoura" || j1 == "Tesoura" && j2 == "Pedra")
-            {
+            Console.WriteLine("---------------------------------");
+            Console.WriteLine           ("JOKEN PO");
+            Console.WriteLine("---------------------------------");
+            Console.WriteLine();
 
-                Console.WriteLine($"Jogador 1:{j1} ");
-                Console.WriteLine($"Jogador 2:{j2} ");
-                Console.WriteLine("Tesoura Ganha!");
-            }
-            else if (j1 == "Papel" && j2 == "Pedra" || j1 == "Pedra" && j2 == "Papel") {
+            
+            Console.WriteLine("Suas Opções: ");
+            Console.WriteLine("[0] Pedra");
+            Console.WriteLine("[1] Papel");
+            Console.WriteLine("[2] Tesoura");
+            Console.WriteLine("---------------------------------");
+            Console.Write("Jogador 1: ");
+            int jogador1 = int.Parse(Console.ReadLine());
+            Console.WriteLine("JO");
+            Console.WriteLine("KEN");
+            Console.WriteLine("PO!");
+            Console.WriteLine("---------------------------------");
+            Console.Write("Computador: ");
+            Random joker = new Random();
+            int computador = joker.Next(0,3);
+            Console.WriteLine(computador);
+            Console.WriteLine("---------------------------------");
 
-                Console.WriteLine($"Jogador 1:{j1} ");
-                Console.WriteLine($"Jogador 2:{j2} ");
-                Console.WriteLine("Papel Ganha!");
-            }
-            else
-            {
-
-                Console.WriteLine("EMPATE");
-            }
+            Console.ReadKey();
 
 
 

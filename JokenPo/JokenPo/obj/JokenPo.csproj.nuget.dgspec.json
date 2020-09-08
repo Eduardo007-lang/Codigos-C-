@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eduar\\source\\repos\\JokenPo\\JokenPo\\JokenPo.csproj": {}
+    "C:\\Users\\eduar\\source\\repos\\Codigos-C-3\\JokenPo\\JokenPo\\JokenPo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eduar\\source\\repos\\JokenPo\\JokenPo\\JokenPo.csproj": {
+    "C:\\Users\\eduar\\source\\repos\\Codigos-C-3\\JokenPo\\JokenPo\\JokenPo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eduar\\source\\repos\\JokenPo\\JokenPo\\JokenPo.csproj",
+        "projectUniqueName": "C:\\Users\\eduar\\source\\repos\\Codigos-C-3\\JokenPo\\JokenPo\\JokenPo.csproj",
         "projectName": "JokenPo",
-        "projectPath": "C:\\Users\\eduar\\source\\repos\\JokenPo\\JokenPo\\JokenPo.csproj",
+        "projectPath": "C:\\Users\\eduar\\source\\repos\\Codigos-C-3\\JokenPo\\JokenPo\\JokenPo.csproj",
         "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eduar\\source\\repos\\JokenPo\\JokenPo\\obj\\",
+        "outputPath": "C:\\Users\\eduar\\source\\repos\\Codigos-C-3\\JokenPo\\JokenPo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
