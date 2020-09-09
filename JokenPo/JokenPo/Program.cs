@@ -7,7 +7,7 @@ namespace JokenPo
         static void Main(string[] args)
         {
             // variaveis
-            int count = 1, quantidade = 0;
+            int count = 1, quantidade = 1;
            
 
             //titulo 
