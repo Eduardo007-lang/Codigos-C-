@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Pesquisa_SO_Servidores/1.0.0": {
+        "runtime": {
+          "Pesquisa_SO_Servidores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pesquisa_SO_Servidores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

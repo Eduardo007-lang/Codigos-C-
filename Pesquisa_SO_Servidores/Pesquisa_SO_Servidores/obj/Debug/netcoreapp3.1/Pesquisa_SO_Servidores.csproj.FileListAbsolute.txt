@@ -1,0 +1,13 @@
+C:\Users\eduar\source\repos\Codigos-C-3\Pesquisa_SO_Servidores\Pesquisa_SO_Servidores\bin\Debug\netcoreapp3.1\Pesquisa_SO_Servidores.exe
+C:\Users\eduar\source\repos\Codigos-C-3\Pesquisa_SO_Servidores\Pesquisa_SO_Servidores\bin\Debug\netcoreapp3.1\Pesquisa_SO_Servidores.deps.json
+C:\Users\eduar\source\repos\Codigos-C-3\Pesquisa_SO_Servidores\Pesquisa_SO_Servidores\bin\Debug\netcoreapp3.1\Pesquisa_SO_Servidores.runtimeconfig.json
+C:\Users\eduar\source\repos\Codigos-C-3\Pesquisa_SO_Servidores\Pesquisa_SO_Servidores\bin\Debug\netcoreapp3.1\Pesquisa_SO_Servidores.runtimeconfig.dev.json
+C:\Users\eduar\source\repos\Codigos-C-3\Pesquisa_SO_Servidores\Pesquisa_SO_Servidores\bin\Debug\netcoreapp3.1\Pesquisa_SO_Servidores.dll
+C:\Users\eduar\source\repos\Codigos-C-3\Pesquisa_SO_Servidores\Pesquisa_SO_Servidores\bin\Debug\netcoreapp3.1\Pesquisa_SO_Servidores.pdb
+C:\Users\eduar\source\repos\Codigos-C-3\Pesquisa_SO_Servidores\Pesquisa_SO_Servidores\obj\Debug\netcoreapp3.1\Pesquisa_SO_Servidores.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\Codigos-C-3\Pesquisa_SO_Servidores\Pesquisa_SO_Servidores\obj\Debug\netcoreapp3.1\Pesquisa_SO_Servidores.AssemblyInfoInputs.cache
+C:\Users\eduar\source\repos\Codigos-C-3\Pesquisa_SO_Servidores\Pesquisa_SO_Servidores\obj\Debug\netcoreapp3.1\Pesquisa_SO_Servidores.AssemblyInfo.cs
+C:\Users\eduar\source\repos\Codigos-C-3\Pesquisa_SO_Servidores\Pesquisa_SO_Servidores\obj\Debug\netcoreapp3.1\Pesquisa_SO_Servidores.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Codigos-C-3\Pesquisa_SO_Servidores\Pesquisa_SO_Servidores\obj\Debug\netcoreapp3.1\Pesquisa_SO_Servidores.dll
+C:\Users\eduar\source\repos\Codigos-C-3\Pesquisa_SO_Servidores\Pesquisa_SO_Servidores\obj\Debug\netcoreapp3.1\Pesquisa_SO_Servidores.pdb
+C:\Users\eduar\source\repos\Codigos-C-3\Pesquisa_SO_Servidores\Pesquisa_SO_Servidores\obj\Debug\netcoreapp3.1\Pesquisa_SO_Servidores.genruntimeconfig.cache
