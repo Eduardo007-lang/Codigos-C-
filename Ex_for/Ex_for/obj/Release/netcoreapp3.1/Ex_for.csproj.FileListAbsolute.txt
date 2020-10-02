@@ -1,0 +1,13 @@
+C:\Users\eduar\source\repos\Codigos-C-3\Ex_for\Ex_for\bin\Release\netcoreapp3.1\Ex_for.exe
+C:\Users\eduar\source\repos\Codigos-C-3\Ex_for\Ex_for\bin\Release\netcoreapp3.1\Ex_for.deps.json
+C:\Users\eduar\source\repos\Codigos-C-3\Ex_for\Ex_for\bin\Release\netcoreapp3.1\Ex_for.runtimeconfig.json
+C:\Users\eduar\source\repos\Codigos-C-3\Ex_for\Ex_for\bin\Release\netcoreapp3.1\Ex_for.runtimeconfig.dev.json
+C:\Users\eduar\source\repos\Codigos-C-3\Ex_for\Ex_for\bin\Release\netcoreapp3.1\Ex_for.dll
+C:\Users\eduar\source\repos\Codigos-C-3\Ex_for\Ex_for\bin\Release\netcoreapp3.1\Ex_for.pdb
+C:\Users\eduar\source\repos\Codigos-C-3\Ex_for\Ex_for\obj\Release\netcoreapp3.1\Ex_for.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\Codigos-C-3\Ex_for\Ex_for\obj\Release\netcoreapp3.1\Ex_for.AssemblyInfoInputs.cache
+C:\Users\eduar\source\repos\Codigos-C-3\Ex_for\Ex_for\obj\Release\netcoreapp3.1\Ex_for.AssemblyInfo.cs
+C:\Users\eduar\source\repos\Codigos-C-3\Ex_for\Ex_for\obj\Release\netcoreapp3.1\Ex_for.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Codigos-C-3\Ex_for\Ex_for\obj\Release\netcoreapp3.1\Ex_for.dll
+C:\Users\eduar\source\repos\Codigos-C-3\Ex_for\Ex_for\obj\Release\netcoreapp3.1\Ex_for.pdb
+C:\Users\eduar\source\repos\Codigos-C-3\Ex_for\Ex_for\obj\Release\netcoreapp3.1\Ex_for.genruntimeconfig.cache
