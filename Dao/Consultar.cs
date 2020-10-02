@@ -8,6 +8,7 @@ using MySql.Data.MySqlClient;
 using TP1.Model;
 using System.Windows.Forms;
 
+
 namespace TP1.Dao
 {
     class Consultar
