@@ -1,0 +1,12 @@
+C:\Users\eduar\source\repos\Codigos-C-3\Salario_De_Funcionario\Salario_De_Funcionario\bin\Debug\netcoreapp3.1\Salario_De_Funcionario.exe
+C:\Users\eduar\source\repos\Codigos-C-3\Salario_De_Funcionario\Salario_De_Funcionario\bin\Debug\netcoreapp3.1\Salario_De_Funcionario.deps.json
+C:\Users\eduar\source\repos\Codigos-C-3\Salario_De_Funcionario\Salario_De_Funcionario\bin\Debug\netcoreapp3.1\Salario_De_Funcionario.runtimeconfig.json
+C:\Users\eduar\source\repos\Codigos-C-3\Salario_De_Funcionario\Salario_De_Funcionario\bin\Debug\netcoreapp3.1\Salario_De_Funcionario.runtimeconfig.dev.json
+C:\Users\eduar\source\repos\Codigos-C-3\Salario_De_Funcionario\Salario_De_Funcionario\bin\Debug\netcoreapp3.1\Salario_De_Funcionario.dll
+C:\Users\eduar\source\repos\Codigos-C-3\Salario_De_Funcionario\Salario_De_Funcionario\bin\Debug\netcoreapp3.1\Salario_De_Funcionario.pdb
+C:\Users\eduar\source\repos\Codigos-C-3\Salario_De_Funcionario\Salario_De_Funcionario\obj\Debug\netcoreapp3.1\Salario_De_Funcionario.AssemblyInfoInputs.cache
+C:\Users\eduar\source\repos\Codigos-C-3\Salario_De_Funcionario\Salario_De_Funcionario\obj\Debug\netcoreapp3.1\Salario_De_Funcionario.AssemblyInfo.cs
+C:\Users\eduar\source\repos\Codigos-C-3\Salario_De_Funcionario\Salario_De_Funcionario\obj\Debug\netcoreapp3.1\Salario_De_Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Codigos-C-3\Salario_De_Funcionario\Salario_De_Funcionario\obj\Debug\netcoreapp3.1\Salario_De_Funcionario.dll
+C:\Users\eduar\source\repos\Codigos-C-3\Salario_De_Funcionario\Salario_De_Funcionario\obj\Debug\netcoreapp3.1\Salario_De_Funcionario.pdb
+C:\Users\eduar\source\repos\Codigos-C-3\Salario_De_Funcionario\Salario_De_Funcionario\obj\Debug\netcoreapp3.1\Salario_De_Funcionario.genruntimeconfig.cache
