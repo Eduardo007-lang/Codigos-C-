@@ -1,0 +1,13 @@
+C:\Users\eduar\source\repos\Codigos-C-3\Calculo_Triangulo\Calculo_Triangulo\bin\Debug\netcoreapp3.1\Calculo_Triangulo.exe
+C:\Users\eduar\source\repos\Codigos-C-3\Calculo_Triangulo\Calculo_Triangulo\bin\Debug\netcoreapp3.1\Calculo_Triangulo.deps.json
+C:\Users\eduar\source\repos\Codigos-C-3\Calculo_Triangulo\Calculo_Triangulo\bin\Debug\netcoreapp3.1\Calculo_Triangulo.runtimeconfig.json
+C:\Users\eduar\source\repos\Codigos-C-3\Calculo_Triangulo\Calculo_Triangulo\bin\Debug\netcoreapp3.1\Calculo_Triangulo.runtimeconfig.dev.json
+C:\Users\eduar\source\repos\Codigos-C-3\Calculo_Triangulo\Calculo_Triangulo\bin\Debug\netcoreapp3.1\Calculo_Triangulo.dll
+C:\Users\eduar\source\repos\Codigos-C-3\Calculo_Triangulo\Calculo_Triangulo\bin\Debug\netcoreapp3.1\Calculo_Triangulo.pdb
+C:\Users\eduar\source\repos\Codigos-C-3\Calculo_Triangulo\Calculo_Triangulo\obj\Debug\netcoreapp3.1\Calculo_Triangulo.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\Codigos-C-3\Calculo_Triangulo\Calculo_Triangulo\obj\Debug\netcoreapp3.1\Calculo_Triangulo.AssemblyInfoInputs.cache
+C:\Users\eduar\source\repos\Codigos-C-3\Calculo_Triangulo\Calculo_Triangulo\obj\Debug\netcoreapp3.1\Calculo_Triangulo.AssemblyInfo.cs
+C:\Users\eduar\source\repos\Codigos-C-3\Calculo_Triangulo\Calculo_Triangulo\obj\Debug\netcoreapp3.1\Calculo_Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Codigos-C-3\Calculo_Triangulo\Calculo_Triangulo\obj\Debug\netcoreapp3.1\Calculo_Triangulo.dll
+C:\Users\eduar\source\repos\Codigos-C-3\Calculo_Triangulo\Calculo_Triangulo\obj\Debug\netcoreapp3.1\Calculo_Triangulo.pdb
+C:\Users\eduar\source\repos\Codigos-C-3\Calculo_Triangulo\Calculo_Triangulo\obj\Debug\netcoreapp3.1\Calculo_Triangulo.genruntimeconfig.cache
