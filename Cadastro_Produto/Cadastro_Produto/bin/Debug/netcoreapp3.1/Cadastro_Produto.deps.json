@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Cadastro_Produto/1.0.0": {
+        "runtime": {
+          "Cadastro_Produto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cadastro_Produto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

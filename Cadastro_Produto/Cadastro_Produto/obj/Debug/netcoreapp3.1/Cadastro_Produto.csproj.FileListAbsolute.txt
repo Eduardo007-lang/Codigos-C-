@@ -1,0 +1,13 @@
+C:\Users\eduar\source\repos\Codigos-C-3\Cadastro_Produto\Cadastro_Produto\bin\Debug\netcoreapp3.1\Cadastro_Produto.exe
+C:\Users\eduar\source\repos\Codigos-C-3\Cadastro_Produto\Cadastro_Produto\bin\Debug\netcoreapp3.1\Cadastro_Produto.deps.json
+C:\Users\eduar\source\repos\Codigos-C-3\Cadastro_Produto\Cadastro_Produto\bin\Debug\netcoreapp3.1\Cadastro_Produto.runtimeconfig.json
+C:\Users\eduar\source\repos\Codigos-C-3\Cadastro_Produto\Cadastro_Produto\bin\Debug\netcoreapp3.1\Cadastro_Produto.runtimeconfig.dev.json
+C:\Users\eduar\source\repos\Codigos-C-3\Cadastro_Produto\Cadastro_Produto\bin\Debug\netcoreapp3.1\Cadastro_Produto.dll
+C:\Users\eduar\source\repos\Codigos-C-3\Cadastro_Produto\Cadastro_Produto\bin\Debug\netcoreapp3.1\Cadastro_Produto.pdb
+C:\Users\eduar\source\repos\Codigos-C-3\Cadastro_Produto\Cadastro_Produto\obj\Debug\netcoreapp3.1\Cadastro_Produto.AssemblyInfoInputs.cache
+C:\Users\eduar\source\repos\Codigos-C-3\Cadastro_Produto\Cadastro_Produto\obj\Debug\netcoreapp3.1\Cadastro_Produto.AssemblyInfo.cs
+C:\Users\eduar\source\repos\Codigos-C-3\Cadastro_Produto\Cadastro_Produto\obj\Debug\netcoreapp3.1\Cadastro_Produto.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Codigos-C-3\Cadastro_Produto\Cadastro_Produto\obj\Debug\netcoreapp3.1\Cadastro_Produto.dll
+C:\Users\eduar\source\repos\Codigos-C-3\Cadastro_Produto\Cadastro_Produto\obj\Debug\netcoreapp3.1\Cadastro_Produto.pdb
+C:\Users\eduar\source\repos\Codigos-C-3\Cadastro_Produto\Cadastro_Produto\obj\Debug\netcoreapp3.1\Cadastro_Produto.genruntimeconfig.cache
+C:\Users\eduar\source\repos\Codigos-C-3\Cadastro_Produto\Cadastro_Produto\obj\Debug\netcoreapp3.1\Cadastro_Produto.csprojAssemblyReference.cache
