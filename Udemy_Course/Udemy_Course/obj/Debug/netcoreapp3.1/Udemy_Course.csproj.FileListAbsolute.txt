@@ -11,3 +11,16 @@ C:\Users\eduardo.silva\source\repos\Codigos-C-2\Udemy_Course\Udemy_Course\obj\De
 C:\Users\eduardo.silva\source\repos\Codigos-C-2\Udemy_Course\Udemy_Course\obj\Debug\netcoreapp3.1\Udemy_Course.dll
 C:\Users\eduardo.silva\source\repos\Codigos-C-2\Udemy_Course\Udemy_Course\obj\Debug\netcoreapp3.1\Udemy_Course.pdb
 C:\Users\eduardo.silva\source\repos\Codigos-C-2\Udemy_Course\Udemy_Course\obj\Debug\netcoreapp3.1\Udemy_Course.genruntimeconfig.cache
+C:\Users\eduar\source\repos\Codigos-C-3\Udemy_Course\Udemy_Course\bin\Debug\netcoreapp3.1\Udemy_Course.exe
+C:\Users\eduar\source\repos\Codigos-C-3\Udemy_Course\Udemy_Course\bin\Debug\netcoreapp3.1\Udemy_Course.deps.json
+C:\Users\eduar\source\repos\Codigos-C-3\Udemy_Course\Udemy_Course\bin\Debug\netcoreapp3.1\Udemy_Course.runtimeconfig.json
+C:\Users\eduar\source\repos\Codigos-C-3\Udemy_Course\Udemy_Course\bin\Debug\netcoreapp3.1\Udemy_Course.runtimeconfig.dev.json
+C:\Users\eduar\source\repos\Codigos-C-3\Udemy_Course\Udemy_Course\bin\Debug\netcoreapp3.1\Udemy_Course.dll
+C:\Users\eduar\source\repos\Codigos-C-3\Udemy_Course\Udemy_Course\bin\Debug\netcoreapp3.1\Udemy_Course.pdb
+C:\Users\eduar\source\repos\Codigos-C-3\Udemy_Course\Udemy_Course\obj\Debug\netcoreapp3.1\Udemy_Course.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\Codigos-C-3\Udemy_Course\Udemy_Course\obj\Debug\netcoreapp3.1\Udemy_Course.AssemblyInfoInputs.cache
+C:\Users\eduar\source\repos\Codigos-C-3\Udemy_Course\Udemy_Course\obj\Debug\netcoreapp3.1\Udemy_Course.AssemblyInfo.cs
+C:\Users\eduar\source\repos\Codigos-C-3\Udemy_Course\Udemy_Course\obj\Debug\netcoreapp3.1\Udemy_Course.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Codigos-C-3\Udemy_Course\Udemy_Course\obj\Debug\netcoreapp3.1\Udemy_Course.dll
+C:\Users\eduar\source\repos\Codigos-C-3\Udemy_Course\Udemy_Course\obj\Debug\netcoreapp3.1\Udemy_Course.pdb
+C:\Users\eduar\source\repos\Codigos-C-3\Udemy_Course\Udemy_Course\obj\Debug\netcoreapp3.1\Udemy_Course.genruntimeconfig.cache

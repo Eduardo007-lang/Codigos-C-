@@ -31,8 +31,8 @@ namespace Banco
         {
 
             get { return Numero_Conta; }
-            set
-            {
+
+            set {
 
                 if (value != null)
                 {
@@ -50,8 +50,10 @@ namespace Banco
         {
 
             get { return Nome; }
-            set
-            {
+
+            set { 
+
+
 
                 if (value != null && value.Length > 1)
                 {

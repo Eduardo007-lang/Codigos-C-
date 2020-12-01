@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eduardo.silva\\source\\repos\\Codigos-C-2\\Banco\\Banco\\Banco.csproj": {}
+    "C:\\Users\\eduar\\Source\\Repos\\Codigos-C-3\\Banco\\Banco\\Banco.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eduardo.silva\\source\\repos\\Codigos-C-2\\Banco\\Banco\\Banco.csproj": {
+    "C:\\Users\\eduar\\Source\\Repos\\Codigos-C-3\\Banco\\Banco\\Banco.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eduardo.silva\\source\\repos\\Codigos-C-2\\Banco\\Banco\\Banco.csproj",
+        "projectUniqueName": "C:\\Users\\eduar\\Source\\Repos\\Codigos-C-3\\Banco\\Banco\\Banco.csproj",
         "projectName": "Banco",
-        "projectPath": "C:\\Users\\eduardo.silva\\source\\repos\\Codigos-C-2\\Banco\\Banco\\Banco.csproj",
-        "packagesPath": "C:\\Users\\eduardo.silva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eduardo.silva\\source\\repos\\Codigos-C-2\\Banco\\Banco\\obj\\",
+        "projectPath": "C:\\Users\\eduar\\Source\\Repos\\Codigos-C-3\\Banco\\Banco\\Banco.csproj",
+        "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eduar\\Source\\Repos\\Codigos-C-3\\Banco\\Banco\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\eduardo.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\eduar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -56,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
