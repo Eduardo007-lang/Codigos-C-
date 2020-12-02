@@ -6,27 +6,27 @@ namespace Banco
     {
         //Atributos Privados
         private int Numero_Conta;
-        private string Nome;
+        private string Titular;
         //Propriedades 
-        public double Deposito_Inicial { get; private set; }
-        public double Deposito { get; private set; }
+        public double Saldo { get; set; }
+       
 
      
 
         //Construtor de dois Parametros
-        public Conta_Bancaria(int numero_conta, string nome) {
+        public Conta_Bancaria(int numero_conta, string titular) {
 
             Numero_Conta = numero_conta;
-            Nome = nome;
+            Titular = titular;
         }
 
         //Cosntrutor de tres Parametros
-        public Conta_Bancaria(int numero_conta, string nome, double deposito) : this( numero_conta, nome) {
+        public Conta_Bancaria(int numero_conta, string titular, double saldo) : this( numero_conta, titular) {
 
-            Deposito_Inicial = deposito;
+            Saldo = saldo;
         }
 
-        //Propriedades custo
+        //Propriedades customizada
         public int numero_conta
         {
 
@@ -34,7 +34,7 @@ namespace Banco
 
             set {
 
-                if (value != null)
+                if (value != 0)
                 {
 
                     Numero_Conta = value;
@@ -45,38 +45,41 @@ namespace Banco
 
         }
 
-        //Propriedades custo
-        public string _nome
+        //Propriedades customizada
+        public string titular
         {
 
-            get { return Nome; }
+            get { return Titular; }
 
             set { 
-
-
-
-                if (value != null && value.Length > 1)
+                if (value != null && value.Length > 2)
                 {
 
-                    Nome = value;
+                    Titular = value;
 
                 }
 
             }
 
         }
+      
+        //Funcao para depositar(adicionar) uma quantidade x na variavel Saldo 
+        public void Deposito(double quantia) {
 
-        public override string ToString()
-        {
-            return "Conta: " + Numero_Conta + ", Titular: " + Nome + ", Saldo: $ " + Deposito_Inicial.ToString("F2", CultureInfo.InvariantCulture); 
+           Saldo += quantia;
         }
 
-        /*  public double Deposito_Bancario()
-          {
+        //Funcao para saque(retirar) uma quantia da x da variavel Saldo 
+        public void Saque(double quantia)
+        {
 
-              return Deposito_Inicial + Deposito;
+            Saldo -= quantia + 5.0;
+        }
 
-          }*/
-
+        //Convertendo o objeto para string
+        public override string ToString()
+        {
+            return "Conta: " + Numero_Conta + ", Titular: " + Titular + ", Saldo: $ " + Saldo.ToString("F2", CultureInfo.InvariantCulture);
+        }
     }
 }

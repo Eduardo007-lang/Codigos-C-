@@ -11,3 +11,16 @@ C:\Users\eduardo.silva\source\repos\Codigos-C-2\Banco\Banco\obj\Debug\netcoreapp
 C:\Users\eduardo.silva\source\repos\Codigos-C-2\Banco\Banco\obj\Debug\netcoreapp3.1\Banco.dll
 C:\Users\eduardo.silva\source\repos\Codigos-C-2\Banco\Banco\obj\Debug\netcoreapp3.1\Banco.pdb
 C:\Users\eduardo.silva\source\repos\Codigos-C-2\Banco\Banco\obj\Debug\netcoreapp3.1\Banco.genruntimeconfig.cache
+C:\Users\eduar\Source\Repos\Codigos-C-3\Banco\Banco\bin\Debug\netcoreapp3.1\Banco.exe
+C:\Users\eduar\Source\Repos\Codigos-C-3\Banco\Banco\bin\Debug\netcoreapp3.1\Banco.deps.json
+C:\Users\eduar\Source\Repos\Codigos-C-3\Banco\Banco\bin\Debug\netcoreapp3.1\Banco.runtimeconfig.json
+C:\Users\eduar\Source\Repos\Codigos-C-3\Banco\Banco\bin\Debug\netcoreapp3.1\Banco.runtimeconfig.dev.json
+C:\Users\eduar\Source\Repos\Codigos-C-3\Banco\Banco\bin\Debug\netcoreapp3.1\Banco.dll
+C:\Users\eduar\Source\Repos\Codigos-C-3\Banco\Banco\bin\Debug\netcoreapp3.1\Banco.pdb
+C:\Users\eduar\Source\Repos\Codigos-C-3\Banco\Banco\obj\Debug\netcoreapp3.1\Banco.csprojAssemblyReference.cache
+C:\Users\eduar\Source\Repos\Codigos-C-3\Banco\Banco\obj\Debug\netcoreapp3.1\Banco.AssemblyInfoInputs.cache
+C:\Users\eduar\Source\Repos\Codigos-C-3\Banco\Banco\obj\Debug\netcoreapp3.1\Banco.AssemblyInfo.cs
+C:\Users\eduar\Source\Repos\Codigos-C-3\Banco\Banco\obj\Debug\netcoreapp3.1\Banco.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Source\Repos\Codigos-C-3\Banco\Banco\obj\Debug\netcoreapp3.1\Banco.dll
+C:\Users\eduar\Source\Repos\Codigos-C-3\Banco\Banco\obj\Debug\netcoreapp3.1\Banco.pdb
+C:\Users\eduar\Source\Repos\Codigos-C-3\Banco\Banco\obj\Debug\netcoreapp3.1\Banco.genruntimeconfig.cache
