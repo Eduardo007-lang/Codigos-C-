@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eduardo.silva\\Source\\Repos\\Codigos-C-3\\Banco\\Banco\\Banco.csproj": {}
+    "C:\\Users\\eduardo.silva\\source\\repos\\Codigos-C-3\\Pessoa_Fisica\\Pessoa_Fisica\\Pessoa_Fisica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eduardo.silva\\Source\\Repos\\Codigos-C-3\\Banco\\Banco\\Banco.csproj": {
+    "C:\\Users\\eduardo.silva\\source\\repos\\Codigos-C-3\\Pessoa_Fisica\\Pessoa_Fisica\\Pessoa_Fisica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eduardo.silva\\Source\\Repos\\Codigos-C-3\\Banco\\Banco\\Banco.csproj",
-        "projectName": "Banco",
-        "projectPath": "C:\\Users\\eduardo.silva\\Source\\Repos\\Codigos-C-3\\Banco\\Banco\\Banco.csproj",
+        "projectUniqueName": "C:\\Users\\eduardo.silva\\source\\repos\\Codigos-C-3\\Pessoa_Fisica\\Pessoa_Fisica\\Pessoa_Fisica.csproj",
+        "projectName": "Pessoa_Fisica",
+        "projectPath": "C:\\Users\\eduardo.silva\\source\\repos\\Codigos-C-3\\Pessoa_Fisica\\Pessoa_Fisica\\Pessoa_Fisica.csproj",
         "packagesPath": "C:\\Users\\eduardo.silva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eduardo.silva\\Source\\Repos\\Codigos-C-3\\Banco\\Banco\\obj\\",
+        "outputPath": "C:\\Users\\eduardo.silva\\source\\repos\\Codigos-C-3\\Pessoa_Fisica\\Pessoa_Fisica\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

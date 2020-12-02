@@ -1,0 +1,13 @@
+C:\Users\eduardo.silva\source\repos\Codigos-C-3\Pessoa_Fisica\Pessoa_Fisica\bin\Debug\netcoreapp3.1\Pessoa_Fisica.exe
+C:\Users\eduardo.silva\source\repos\Codigos-C-3\Pessoa_Fisica\Pessoa_Fisica\bin\Debug\netcoreapp3.1\Pessoa_Fisica.deps.json
+C:\Users\eduardo.silva\source\repos\Codigos-C-3\Pessoa_Fisica\Pessoa_Fisica\bin\Debug\netcoreapp3.1\Pessoa_Fisica.runtimeconfig.json
+C:\Users\eduardo.silva\source\repos\Codigos-C-3\Pessoa_Fisica\Pessoa_Fisica\bin\Debug\netcoreapp3.1\Pessoa_Fisica.runtimeconfig.dev.json
+C:\Users\eduardo.silva\source\repos\Codigos-C-3\Pessoa_Fisica\Pessoa_Fisica\bin\Debug\netcoreapp3.1\Pessoa_Fisica.dll
+C:\Users\eduardo.silva\source\repos\Codigos-C-3\Pessoa_Fisica\Pessoa_Fisica\bin\Debug\netcoreapp3.1\Pessoa_Fisica.pdb
+C:\Users\eduardo.silva\source\repos\Codigos-C-3\Pessoa_Fisica\Pessoa_Fisica\obj\Debug\netcoreapp3.1\Pessoa_Fisica.csprojAssemblyReference.cache
+C:\Users\eduardo.silva\source\repos\Codigos-C-3\Pessoa_Fisica\Pessoa_Fisica\obj\Debug\netcoreapp3.1\Pessoa_Fisica.AssemblyInfoInputs.cache
+C:\Users\eduardo.silva\source\repos\Codigos-C-3\Pessoa_Fisica\Pessoa_Fisica\obj\Debug\netcoreapp3.1\Pessoa_Fisica.AssemblyInfo.cs
+C:\Users\eduardo.silva\source\repos\Codigos-C-3\Pessoa_Fisica\Pessoa_Fisica\obj\Debug\netcoreapp3.1\Pessoa_Fisica.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.silva\source\repos\Codigos-C-3\Pessoa_Fisica\Pessoa_Fisica\obj\Debug\netcoreapp3.1\Pessoa_Fisica.dll
+C:\Users\eduardo.silva\source\repos\Codigos-C-3\Pessoa_Fisica\Pessoa_Fisica\obj\Debug\netcoreapp3.1\Pessoa_Fisica.pdb
+C:\Users\eduardo.silva\source\repos\Codigos-C-3\Pessoa_Fisica\Pessoa_Fisica\obj\Debug\netcoreapp3.1\Pessoa_Fisica.genruntimeconfig.cache
