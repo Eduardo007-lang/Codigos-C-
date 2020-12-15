@@ -1,0 +1,12 @@
+C:\Users\eduardo.silva\source\repos\Codigos-C\Atividade1_Array\Atividade1_Array\bin\Debug\netcoreapp3.1\Atividade1_Array.exe
+C:\Users\eduardo.silva\source\repos\Codigos-C\Atividade1_Array\Atividade1_Array\bin\Debug\netcoreapp3.1\Atividade1_Array.deps.json
+C:\Users\eduardo.silva\source\repos\Codigos-C\Atividade1_Array\Atividade1_Array\bin\Debug\netcoreapp3.1\Atividade1_Array.runtimeconfig.json
+C:\Users\eduardo.silva\source\repos\Codigos-C\Atividade1_Array\Atividade1_Array\bin\Debug\netcoreapp3.1\Atividade1_Array.runtimeconfig.dev.json
+C:\Users\eduardo.silva\source\repos\Codigos-C\Atividade1_Array\Atividade1_Array\bin\Debug\netcoreapp3.1\Atividade1_Array.dll
+C:\Users\eduardo.silva\source\repos\Codigos-C\Atividade1_Array\Atividade1_Array\bin\Debug\netcoreapp3.1\Atividade1_Array.pdb
+C:\Users\eduardo.silva\source\repos\Codigos-C\Atividade1_Array\Atividade1_Array\obj\Debug\netcoreapp3.1\Atividade1_Array.AssemblyInfoInputs.cache
+C:\Users\eduardo.silva\source\repos\Codigos-C\Atividade1_Array\Atividade1_Array\obj\Debug\netcoreapp3.1\Atividade1_Array.AssemblyInfo.cs
+C:\Users\eduardo.silva\source\repos\Codigos-C\Atividade1_Array\Atividade1_Array\obj\Debug\netcoreapp3.1\Atividade1_Array.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.silva\source\repos\Codigos-C\Atividade1_Array\Atividade1_Array\obj\Debug\netcoreapp3.1\Atividade1_Array.dll
+C:\Users\eduardo.silva\source\repos\Codigos-C\Atividade1_Array\Atividade1_Array\obj\Debug\netcoreapp3.1\Atividade1_Array.pdb
+C:\Users\eduardo.silva\source\repos\Codigos-C\Atividade1_Array\Atividade1_Array\obj\Debug\netcoreapp3.1\Atividade1_Array.genruntimeconfig.cache
