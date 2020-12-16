@@ -1,0 +1,13 @@
+C:\Users\eduardo.silva\source\repos\Codigos-C\ForçaBruta\ForçaBruta\bin\Debug\netcoreapp3.1\ForçaBruta.exe
+C:\Users\eduardo.silva\source\repos\Codigos-C\ForçaBruta\ForçaBruta\bin\Debug\netcoreapp3.1\ForçaBruta.deps.json
+C:\Users\eduardo.silva\source\repos\Codigos-C\ForçaBruta\ForçaBruta\bin\Debug\netcoreapp3.1\ForçaBruta.runtimeconfig.json
+C:\Users\eduardo.silva\source\repos\Codigos-C\ForçaBruta\ForçaBruta\bin\Debug\netcoreapp3.1\ForçaBruta.runtimeconfig.dev.json
+C:\Users\eduardo.silva\source\repos\Codigos-C\ForçaBruta\ForçaBruta\bin\Debug\netcoreapp3.1\ForçaBruta.dll
+C:\Users\eduardo.silva\source\repos\Codigos-C\ForçaBruta\ForçaBruta\bin\Debug\netcoreapp3.1\ForçaBruta.pdb
+C:\Users\eduardo.silva\source\repos\Codigos-C\ForçaBruta\ForçaBruta\obj\Debug\netcoreapp3.1\ForçaBruta.csprojAssemblyReference.cache
+C:\Users\eduardo.silva\source\repos\Codigos-C\ForçaBruta\ForçaBruta\obj\Debug\netcoreapp3.1\ForçaBruta.AssemblyInfoInputs.cache
+C:\Users\eduardo.silva\source\repos\Codigos-C\ForçaBruta\ForçaBruta\obj\Debug\netcoreapp3.1\ForçaBruta.AssemblyInfo.cs
+C:\Users\eduardo.silva\source\repos\Codigos-C\ForçaBruta\ForçaBruta\obj\Debug\netcoreapp3.1\ForçaBruta.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.silva\source\repos\Codigos-C\ForçaBruta\ForçaBruta\obj\Debug\netcoreapp3.1\ForçaBruta.dll
+C:\Users\eduardo.silva\source\repos\Codigos-C\ForçaBruta\ForçaBruta\obj\Debug\netcoreapp3.1\ForçaBruta.pdb
+C:\Users\eduardo.silva\source\repos\Codigos-C\ForçaBruta\ForçaBruta\obj\Debug\netcoreapp3.1\ForçaBruta.genruntimeconfig.cache
