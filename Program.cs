@@ -7,16 +7,16 @@ namespace Csharp_test
     {
         static void Main(string[] args)
         {
-           double n1, n2, n3, media;
+           int A, B, C, D, DIFERENCA;
 
-            n1 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            n2 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            n3 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+           A = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+           B = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+           C = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+           D = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture); 
 
-            media = ( n1 * 2 ) + ( n2 * 3 )+ ( n3 * 5) / 10.0;
+           DIFERENCA = (A * B) - (C * D);
 
-        Console.WriteLine("MEDIA = " + media);
-
+            Console.WriteLine("DIFERENCA = " + DIFERENCA);
         }
     }
 }
